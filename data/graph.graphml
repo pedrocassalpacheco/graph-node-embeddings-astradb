@@ -1,0 +1,1151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="karim_benzema">
+      <data key="d0">Player</data>
+    </node>
+    <node id="real_madrid">
+      <data key="d0">Club</data>
+    </node>
+    <node id="st" />
+    <node id="cam" />
+    <node id="james_rodriguez">
+      <data key="d0">Player</data>
+    </node>
+    <node id="lw" />
+    <node id="cristiano_ronaldo">
+      <data key="d0">Player</data>
+    </node>
+    <node id="rw" />
+    <node id="gareth_bale">
+      <data key="d0">Player</data>
+    </node>
+    <node id="cm_2" />
+    <node id="toni_kroos">
+      <data key="d0">Player</data>
+    </node>
+    <node id="rb" />
+    <node id="carvajal">
+      <data key="d0">Player</data>
+    </node>
+    <node id="cm_1" />
+    <node id="luka_modric">
+      <data key="d0">Player</data>
+    </node>
+    <node id="lb" />
+    <node id="marcelo">
+      <data key="d0">Player</data>
+    </node>
+    <node id="cb_2" />
+    <node id="pepe">
+      <data key="d0">Player</data>
+    </node>
+    <node id="cb_1" />
+    <node id="sergio_ramos">
+      <data key="d0">Player</data>
+    </node>
+    <node id="gk" />
+    <node id="keylor_navas">
+      <data key="d0">Player</data>
+    </node>
+    <node id="pedro">
+      <data key="d0">Player</data>
+    </node>
+    <node id="chelsea">
+      <data key="d0">Club</data>
+    </node>
+    <node id="diego_costa">
+      <data key="d0">Player</data>
+    </node>
+    <node id="rwb" />
+    <node id="victor_moses">
+      <data key="d0">Player</data>
+    </node>
+    <node id="nemanja_matic">
+      <data key="d0">Player</data>
+    </node>
+    <node id="eden_hazard">
+      <data key="d0">Player</data>
+    </node>
+    <node id="n'golo_kante">
+      <data key="d0">Player</data>
+    </node>
+    <node id="lwb" />
+    <node id="marcos_alonso">
+      <data key="d0">Player</data>
+    </node>
+    <node id="cb_3" />
+    <node id="azpilicueta">
+      <data key="d0">Player</data>
+    </node>
+    <node id="david_luiz">
+      <data key="d0">Player</data>
+    </node>
+    <node id="gary_cahill">
+      <data key="d0">Player</data>
+    </node>
+    <node id="thibaut_courtois">
+      <data key="d0">Player</data>
+    </node>
+    <node id="zlatan_ibrahimovic">
+      <data key="d0">Player</data>
+    </node>
+    <node id="manchester_utd">
+      <data key="d0">Club</data>
+    </node>
+    <node id="paul_pogba">
+      <data key="d0">Player</data>
+    </node>
+    <node id="ander_herrera">
+      <data key="d0">Player</data>
+    </node>
+    <node id="anthony_martial">
+      <data key="d0">Player</data>
+    </node>
+    <node id="henrikh_mkhitaryan">
+      <data key="d0">Player</data>
+    </node>
+    <node id="michael_carrick">
+      <data key="d0">Player</data>
+    </node>
+    <node id="cdm" />
+    <node id="eric_bailly">
+      <data key="d0">Player</data>
+    </node>
+    <node id="chris_smalling">
+      <data key="d0">Player</data>
+    </node>
+    <node id="antonio_valencia">
+      <data key="d0">Player</data>
+    </node>
+    <node id="daley_blind">
+      <data key="d0">Player</data>
+    </node>
+    <node id="de_gea">
+      <data key="d0">Player</data>
+    </node>
+    <node id="sergio_aguero">
+      <data key="d0">Player</data>
+    </node>
+    <node id="manchester_city">
+      <data key="d0">Club</data>
+    </node>
+    <node id="david_silva">
+      <data key="d0">Player</data>
+    </node>
+    <node id="kevin_de_bruyne">
+      <data key="d0">Player</data>
+    </node>
+    <node id="leroy_sane">
+      <data key="d0">Player</data>
+    </node>
+    <node id="raheem_sterling">
+      <data key="d0">Player</data>
+    </node>
+    <node id="yaya_toure">
+      <data key="d0">Player</data>
+    </node>
+    <node id="nicolas_otamendi">
+      <data key="d0">Player</data>
+    </node>
+    <node id="john_stones">
+      <data key="d0">Player</data>
+    </node>
+    <node id="bacary_sagna">
+      <data key="d0">Player</data>
+    </node>
+    <node id="gael_clichy">
+      <data key="d0">Player</data>
+    </node>
+    <node id="willy_caballero">
+      <data key="d0">Player</data>
+    </node>
+    <node id="gonzalo_higuain">
+      <data key="d0">Player</data>
+    </node>
+    <node id="juventus">
+      <data key="d0">Club</data>
+    </node>
+    <node id="lm" />
+    <node id="mario_mandzukic">
+      <data key="d0">Player</data>
+    </node>
+    <node id="rm" />
+    <node id="juan_cuadrado">
+      <data key="d0">Player</data>
+    </node>
+    <node id="paulo_dybala">
+      <data key="d0">Player</data>
+    </node>
+    <node id="cdm_1" />
+    <node id="miralem_pjanic">
+      <data key="d0">Player</data>
+    </node>
+    <node id="cdm_2" />
+    <node id="sami_khedira">
+      <data key="d0">Player</data>
+    </node>
+    <node id="giorgio_chiellini">
+      <data key="d0">Player</data>
+    </node>
+    <node id="alex_sandro">
+      <data key="d0">Player</data>
+    </node>
+    <node id="leonardo_bonucci">
+      <data key="d0">Player</data>
+    </node>
+    <node id="stephan_lichtsteiner">
+      <data key="d0">Player</data>
+    </node>
+    <node id="gianluigi_buffon">
+      <data key="d0">Player</data>
+    </node>
+    <node id="robert_lewandowski">
+      <data key="d0">Player</data>
+    </node>
+    <node id="fc_bayern">
+      <data key="d0">Club</data>
+    </node>
+    <node id="douglas_costa">
+      <data key="d0">Player</data>
+    </node>
+    <node id="arjen_robben">
+      <data key="d0">Player</data>
+    </node>
+    <node id="thomas_muller">
+      <data key="d0">Player</data>
+    </node>
+    <node id="arturo_vidal">
+      <data key="d0">Player</data>
+    </node>
+    <node id="thiago">
+      <data key="d0">Player</data>
+    </node>
+    <node id="javi_martinez">
+      <data key="d0">Player</data>
+    </node>
+    <node id="david_alaba">
+      <data key="d0">Player</data>
+    </node>
+    <node id="mats_hummels">
+      <data key="d0">Player</data>
+    </node>
+    <node id="philipp_lahm">
+      <data key="d0">Player</data>
+    </node>
+    <node id="manuel_neuer">
+      <data key="d0">Player</data>
+    </node>
+    <node id="dries_mertens">
+      <data key="d0">Player</data>
+    </node>
+    <node id="napoli">
+      <data key="d0">Club</data>
+    </node>
+    <node id="marek_hamsik">
+      <data key="d0">Player</data>
+    </node>
+    <node id="lorenzo_insigne">
+      <data key="d0">Player</data>
+    </node>
+    <node id="jose_callejon">
+      <data key="d0">Player</data>
+    </node>
+    <node id="cm_3" />
+    <node id="piotr_zielinski">
+      <data key="d0">Player</data>
+    </node>
+    <node id="amadou_diawara">
+      <data key="d0">Player</data>
+    </node>
+    <node id="kalidou_koulibaly">
+      <data key="d0">Player</data>
+    </node>
+    <node id="raul_albiol">
+      <data key="d0">Player</data>
+    </node>
+    <node id="elseid_hysaj">
+      <data key="d0">Player</data>
+    </node>
+    <node id="faouzi_ghoulam">
+      <data key="d0">Player</data>
+    </node>
+    <node id="jose_reina">
+      <data key="d0">Player</data>
+    </node>
+    <edge source="karim_benzema" target="real_madrid" />
+    <edge source="karim_benzema" target="st">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="karim_benzema" target="james_rodriguez">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="karim_benzema" target="cristiano_ronaldo">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="karim_benzema" target="gareth_bale">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="real_madrid" target="gareth_bale" />
+    <edge source="real_madrid" target="cristiano_ronaldo" />
+    <edge source="real_madrid" target="james_rodriguez" />
+    <edge source="real_madrid" target="toni_kroos" />
+    <edge source="real_madrid" target="luka_modric" />
+    <edge source="real_madrid" target="carvajal" />
+    <edge source="real_madrid" target="pepe" />
+    <edge source="real_madrid" target="sergio_ramos" />
+    <edge source="real_madrid" target="marcelo" />
+    <edge source="real_madrid" target="keylor_navas" />
+    <edge source="st" target="cam">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="st" target="lw">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="st" target="rw">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="st" target="diego_costa">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="st" target="cm_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="st" target="cm_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="st" target="zlatan_ibrahimovic">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="st" target="sergio_aguero">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="st" target="lm">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="st" target="gonzalo_higuain">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="st" target="rm">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="st" target="robert_lewandowski">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="st" target="dries_mertens">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cam" target="cm_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cam" target="james_rodriguez">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cam" target="cm_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cam" target="cdm_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cam" target="paulo_dybala">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cam" target="cdm_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cam" target="rm">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cam" target="lm">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cam" target="thomas_muller">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="james_rodriguez" target="luka_modric">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="james_rodriguez" target="toni_kroos">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="lw" target="cm_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="lw" target="cristiano_ronaldo">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="lw" target="lb">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="lw" target="lwb">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="lw" target="eden_hazard">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="lw" target="anthony_martial">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="lw" target="leroy_sane">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="lw" target="lorenzo_insigne">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cristiano_ronaldo" target="luka_modric">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="cristiano_ronaldo" target="marcelo">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="rw" target="cm_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rw" target="gareth_bale">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="rw" target="rb">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rw" target="pedro">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="rw" target="rwb">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rw" target="henrikh_mkhitaryan">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="rw" target="raheem_sterling">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="rw" target="cm_3">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rw" target="jose_callejon">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="gareth_bale" target="toni_kroos">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="gareth_bale" target="carvajal">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="cm_2" target="toni_kroos">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cm_2" target="cb_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_2" target="rb">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_2" target="rwb">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_2" target="nemanja_matic">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cm_2" target="cm_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_2" target="cdm">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_2" target="ander_herrera">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cm_2" target="kevin_de_bruyne">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cm_2" target="marek_hamsik">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cm_2" target="cm_3">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_2" target="cb_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="toni_kroos" target="pepe">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="toni_kroos" target="carvajal">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="rb" target="carvajal">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="rb" target="cb_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rb" target="antonio_valencia">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="rb" target="bacary_sagna">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="rb" target="cdm_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rb" target="rm">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rb" target="stephan_lichtsteiner">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="rb" target="cdm_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rb" target="philipp_lahm">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="rb" target="cm_3">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rb" target="elseid_hysaj">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="carvajal" target="pepe">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="cm_1" target="luka_modric">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cm_1" target="cb_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_1" target="lb">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_1" target="lwb">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_1" target="n'golo_kante">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cm_1" target="cb_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_1" target="cdm">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cm_1" target="paul_pogba">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cm_1" target="david_silva">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cm_1" target="amadou_diawara">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="luka_modric" target="sergio_ramos">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="luka_modric" target="marcelo">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="lb" target="cb_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="lb" target="marcelo">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="lb" target="daley_blind">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="lb" target="gael_clichy">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="lb" target="cdm_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="lb" target="lm">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="lb" target="alex_sandro">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="lb" target="cdm_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="lb" target="david_alaba">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="lb" target="faouzi_ghoulam">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="marcelo" target="sergio_ramos">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="cb_2" target="pepe">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_2" target="cb_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cb_2" target="gk">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cb_2" target="cb_3">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cb_2" target="david_luiz">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_2" target="cb_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cb_2" target="cdm">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cb_2" target="chris_smalling">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_2" target="john_stones">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_2" target="cdm_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cb_2" target="giorgio_chiellini">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_2" target="javi_martinez">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_2" target="raul_albiol">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="pepe" target="sergio_ramos">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="pepe" target="keylor_navas">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="cb_1" target="sergio_ramos">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_1" target="gk">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cb_1" target="lwb">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cb_1" target="gary_cahill">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_1" target="cdm">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cb_1" target="eric_bailly">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_1" target="nicolas_otamendi">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_1" target="cdm_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="cb_1" target="leonardo_bonucci">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_1" target="mats_hummels">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cb_1" target="kalidou_koulibaly">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="sergio_ramos" target="keylor_navas">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="gk" target="keylor_navas">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="gk" target="cb_3">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="gk" target="thibaut_courtois">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="gk" target="de_gea">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="gk" target="willy_caballero">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="gk" target="gianluigi_buffon">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="gk" target="manuel_neuer">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="gk" target="jose_reina">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="pedro" target="chelsea" />
+    <edge source="pedro" target="diego_costa">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="pedro" target="victor_moses">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="pedro" target="nemanja_matic">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="chelsea" target="diego_costa" />
+    <edge source="chelsea" target="eden_hazard" />
+    <edge source="chelsea" target="victor_moses" />
+    <edge source="chelsea" target="nemanja_matic" />
+    <edge source="chelsea" target="n'golo_kante" />
+    <edge source="chelsea" target="marcos_alonso" />
+    <edge source="chelsea" target="azpilicueta" />
+    <edge source="chelsea" target="david_luiz" />
+    <edge source="chelsea" target="gary_cahill" />
+    <edge source="chelsea" target="thibaut_courtois" />
+    <edge source="diego_costa" target="eden_hazard">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="diego_costa" target="n'golo_kante">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="diego_costa" target="nemanja_matic">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="rwb" target="cb_3">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rwb" target="victor_moses">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="victor_moses" target="azpilicueta">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="victor_moses" target="nemanja_matic">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="nemanja_matic" target="david_luiz">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="nemanja_matic" target="n'golo_kante">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="eden_hazard" target="marcos_alonso">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="eden_hazard" target="n'golo_kante">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="n'golo_kante" target="marcos_alonso">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="n'golo_kante" target="david_luiz">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="lwb" target="marcos_alonso">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="marcos_alonso" target="gary_cahill">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="cb_3" target="azpilicueta">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="azpilicueta" target="thibaut_courtois">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="azpilicueta" target="david_luiz">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="david_luiz" target="thibaut_courtois">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="david_luiz" target="gary_cahill">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="david_luiz" target="david_luiz">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="gary_cahill" target="thibaut_courtois">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="zlatan_ibrahimovic" target="manchester_utd" />
+    <edge source="zlatan_ibrahimovic" target="paul_pogba">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="zlatan_ibrahimovic" target="ander_herrera">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="zlatan_ibrahimovic" target="anthony_martial">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="zlatan_ibrahimovic" target="henrikh_mkhitaryan">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="manchester_utd" target="henrikh_mkhitaryan" />
+    <edge source="manchester_utd" target="anthony_martial" />
+    <edge source="manchester_utd" target="michael_carrick" />
+    <edge source="manchester_utd" target="ander_herrera" />
+    <edge source="manchester_utd" target="paul_pogba" />
+    <edge source="manchester_utd" target="antonio_valencia" />
+    <edge source="manchester_utd" target="chris_smalling" />
+    <edge source="manchester_utd" target="eric_bailly" />
+    <edge source="manchester_utd" target="daley_blind" />
+    <edge source="manchester_utd" target="de_gea" />
+    <edge source="paul_pogba" target="anthony_martial">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="paul_pogba" target="michael_carrick">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="paul_pogba" target="daley_blind">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="ander_herrera" target="henrikh_mkhitaryan">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="ander_herrera" target="michael_carrick">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="ander_herrera" target="antonio_valencia">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="michael_carrick" target="cdm">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="michael_carrick" target="eric_bailly">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="michael_carrick" target="chris_smalling">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="cdm" target="yaya_toure">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="eric_bailly" target="chris_smalling">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="eric_bailly" target="daley_blind">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="eric_bailly" target="de_gea">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="chris_smalling" target="antonio_valencia">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="chris_smalling" target="de_gea">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="sergio_aguero" target="manchester_city" />
+    <edge source="sergio_aguero" target="david_silva">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="sergio_aguero" target="kevin_de_bruyne">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="sergio_aguero" target="leroy_sane">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="sergio_aguero" target="raheem_sterling">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="manchester_city" target="raheem_sterling" />
+    <edge source="manchester_city" target="leroy_sane" />
+    <edge source="manchester_city" target="yaya_toure" />
+    <edge source="manchester_city" target="kevin_de_bruyne" />
+    <edge source="manchester_city" target="david_silva" />
+    <edge source="manchester_city" target="bacary_sagna" />
+    <edge source="manchester_city" target="john_stones" />
+    <edge source="manchester_city" target="nicolas_otamendi" />
+    <edge source="manchester_city" target="gael_clichy" />
+    <edge source="manchester_city" target="willy_caballero" />
+    <edge source="david_silva" target="leroy_sane">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="david_silva" target="yaya_toure">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="david_silva" target="gael_clichy">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="kevin_de_bruyne" target="raheem_sterling">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="kevin_de_bruyne" target="yaya_toure">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="kevin_de_bruyne" target="bacary_sagna">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="yaya_toure" target="nicolas_otamendi">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="yaya_toure" target="john_stones">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="nicolas_otamendi" target="john_stones">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="nicolas_otamendi" target="gael_clichy">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="nicolas_otamendi" target="willy_caballero">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="john_stones" target="bacary_sagna">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="john_stones" target="willy_caballero">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="gonzalo_higuain" target="juventus" />
+    <edge source="gonzalo_higuain" target="mario_mandzukic">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="gonzalo_higuain" target="juan_cuadrado">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="gonzalo_higuain" target="paulo_dybala">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="juventus" target="paulo_dybala" />
+    <edge source="juventus" target="sami_khedira" />
+    <edge source="juventus" target="miralem_pjanic" />
+    <edge source="juventus" target="juan_cuadrado" />
+    <edge source="juventus" target="mario_mandzukic" />
+    <edge source="juventus" target="stephan_lichtsteiner" />
+    <edge source="juventus" target="giorgio_chiellini" />
+    <edge source="juventus" target="leonardo_bonucci" />
+    <edge source="juventus" target="alex_sandro" />
+    <edge source="juventus" target="gianluigi_buffon" />
+    <edge source="lm" target="cdm_1">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="lm" target="mario_mandzukic">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="lm" target="douglas_costa">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="mario_mandzukic" target="paulo_dybala">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="mario_mandzukic" target="miralem_pjanic">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="mario_mandzukic" target="alex_sandro">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="rm" target="cdm_2">
+      <data key="d1">connects_with</data>
+    </edge>
+    <edge source="rm" target="juan_cuadrado">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="rm" target="arjen_robben">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="juan_cuadrado" target="paulo_dybala">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="juan_cuadrado" target="sami_khedira">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="juan_cuadrado" target="stephan_lichtsteiner">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="paulo_dybala" target="miralem_pjanic">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="paulo_dybala" target="sami_khedira">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="cdm_1" target="miralem_pjanic">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cdm_1" target="arturo_vidal">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="miralem_pjanic" target="leonardo_bonucci">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="miralem_pjanic" target="stephan_lichtsteiner">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="miralem_pjanic" target="alex_sandro">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="cdm_2" target="sami_khedira">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="cdm_2" target="thiago">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="sami_khedira" target="giorgio_chiellini">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="sami_khedira" target="alex_sandro">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="sami_khedira" target="stephan_lichtsteiner">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="giorgio_chiellini" target="stephan_lichtsteiner">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="giorgio_chiellini" target="gianluigi_buffon">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="giorgio_chiellini" target="leonardo_bonucci">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="alex_sandro" target="leonardo_bonucci">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="leonardo_bonucci" target="gianluigi_buffon">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="robert_lewandowski" target="fc_bayern" />
+    <edge source="robert_lewandowski" target="douglas_costa">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="robert_lewandowski" target="arjen_robben">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="robert_lewandowski" target="thomas_muller">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="fc_bayern" target="thomas_muller" />
+    <edge source="fc_bayern" target="thiago" />
+    <edge source="fc_bayern" target="arturo_vidal" />
+    <edge source="fc_bayern" target="arjen_robben" />
+    <edge source="fc_bayern" target="douglas_costa" />
+    <edge source="fc_bayern" target="philipp_lahm" />
+    <edge source="fc_bayern" target="javi_martinez" />
+    <edge source="fc_bayern" target="mats_hummels" />
+    <edge source="fc_bayern" target="david_alaba" />
+    <edge source="fc_bayern" target="manuel_neuer" />
+    <edge source="douglas_costa" target="thomas_muller">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="douglas_costa" target="arturo_vidal">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="douglas_costa" target="david_alaba">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="arjen_robben" target="thomas_muller">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="arjen_robben" target="thiago">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="arjen_robben" target="philipp_lahm">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="thomas_muller" target="arturo_vidal">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="thomas_muller" target="thiago">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="arturo_vidal" target="mats_hummels">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="arturo_vidal" target="philipp_lahm">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="arturo_vidal" target="david_alaba">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="thiago" target="javi_martinez">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="thiago" target="david_alaba">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="thiago" target="philipp_lahm">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="javi_martinez" target="philipp_lahm">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="javi_martinez" target="manuel_neuer">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="javi_martinez" target="mats_hummels">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="david_alaba" target="mats_hummels">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="mats_hummels" target="manuel_neuer">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="dries_mertens" target="napoli" />
+    <edge source="dries_mertens" target="marek_hamsik">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="dries_mertens" target="lorenzo_insigne">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="dries_mertens" target="jose_callejon">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="napoli" target="jose_callejon" />
+    <edge source="napoli" target="lorenzo_insigne" />
+    <edge source="napoli" target="marek_hamsik" />
+    <edge source="napoli" target="piotr_zielinski" />
+    <edge source="napoli" target="amadou_diawara" />
+    <edge source="napoli" target="elseid_hysaj" />
+    <edge source="napoli" target="raul_albiol" />
+    <edge source="napoli" target="kalidou_koulibaly" />
+    <edge source="napoli" target="faouzi_ghoulam" />
+    <edge source="napoli" target="jose_reina" />
+    <edge source="marek_hamsik" target="amadou_diawara">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="marek_hamsik" target="piotr_zielinski">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="marek_hamsik" target="kalidou_koulibaly">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="marek_hamsik" target="raul_albiol">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="lorenzo_insigne" target="amadou_diawara">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="jose_callejon" target="piotr_zielinski">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="cm_3" target="piotr_zielinski">
+      <data key="d1">plays_postion</data>
+    </edge>
+    <edge source="piotr_zielinski" target="elseid_hysaj">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="amadou_diawara" target="faouzi_ghoulam">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="kalidou_koulibaly" target="raul_albiol">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="kalidou_koulibaly" target="faouzi_ghoulam">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="kalidou_koulibaly" target="jose_reina">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="raul_albiol" target="elseid_hysaj">
+      <data key="d1">interacts_with</data>
+    </edge>
+    <edge source="raul_albiol" target="jose_reina">
+      <data key="d1">interacts_with</data>
+    </edge>
+  </graph>
+</graphml>
